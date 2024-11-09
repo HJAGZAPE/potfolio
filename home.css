@@ -1,0 +1,181 @@
+li {
+    list-style: none;
+    padding: 2%;
+}
+
+.navbar-nav {
+    /* background-color: #FFFFFF; */
+    display: flex;
+    margin-left: 50% !important;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.textbox {
+    margin: 10%;
+}
+
+button {
+    color: white;
+    border-radius: 5%;
+    background-color: #002057;
+    font-size: large;
+}
+
+/* .logo {
+   width: 2%;
+} */
+
+.abcd {
+    background-image: url(https://media.istockphoto.com/id/1165864106/vector/abstract-plexus-background-with-connecting-dots-and-lines-global-network-connection-digital.jpg?s=612x612&w=0&k=20&c=tqEhgozn8NdD-KKEWo6z2ec_AtdDumrShiF88281Fr8=);
+}
+/* .logo{
+    margin-right: 65% !important;
+} */
+@media (min-width:461px) and (max-width:780px) {
+.mh{
+width : 94%;
+border-radius: 100%;
+margin-top: 27%;}}
+
+@media (min-width:781px) and (max-width:1200px) {
+    .mh{
+        border-radius: 100%;
+        width: 98%;
+        margin-top: 15%;
+}}
+@media (min-width:320px) and (max-width:460px) {
+    .mh{
+        border-radius: 100%;
+        width: 97%;
+        margin-top: 74%;
+    }
+}
+.iii{
+    border-radius: 50%;
+}
+.input-width{
+  width: 23em;
+  border: 3px solid black;
+}
+.git{
+    background-color: plum;
+    padding: 3%;
+  
+}
+.btn{
+    width: 10em !important;
+}
+
+* {box-sizing: border-box;}
+
+/* Style the input container */
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 26em;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+ 
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 26em;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+@media (min-width:320px) and (max-width:460px) {
+    .abt{
+        border-radius: 100%;
+        width: 97%;
+       
+    }
+    .row{
+        display: block;
+    }
+
+    .l{
+        margin-left: 20%;
+        border-radius: 100%;
+        width: 75%;
+       
+    }
+   .js{
+    margin-left:11% !important;
+   }
+
+   .ed{
+   display: block  !important;
+   margin-right: 25%  !important;
+   
+   }
+   .gitta{
+    width: 103%;
+    height: 50%;
+   }
+
+   .meimg{
+    margin-left: 20%  !important;
+    width: 10em;
+   }
+   .meh{
+    font-size: small;
+   }
+   .gitimg{
+    width: 100%;
+    
+   }
+   .dis{
+    display: block !important;
+   }
+   .gitdd{
+    margin-left: 10% !important;
+   }
+   .gitf{
+    width: 10% !important;
+    height: 10% !important;
+   }
+   .gitb{
+    margin-left: 30%;
+   }
+   .sss{
+    margin-left: 68%;
+   }
+   .abttext{
+    margin-left: 30%;
+   }
+}
+.gitb{
+    margin-left: 25%;
+}
